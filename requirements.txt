@@ -23,7 +23,7 @@ pre-commit==2.4.0
 py==1.8.1
 py-translate==1.0.3
 pyjokes==0.6.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyparsing==2.4.7
 PyPDF2==1.26.0
 PySocks==1.7.1
